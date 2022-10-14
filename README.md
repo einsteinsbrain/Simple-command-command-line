@@ -1,5 +1,5 @@
 # Simple-command-command-line
-This is a command line game I made in one day, it is buggy and only barely not crashes. I shouldn't
+This is a command line game I made in one day, it is buggy and only barely not crashes. I shouldn't call it a game so that's why its called Simple command command line because thats literally the first think I thought of 😂
 
 INSTRUCTIONS:
 to move first specify direction by either using N, S, W, E. (Which represents north, south west east)
